@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "076dcc598418066a",
+        "id": "c57099b9c73e460b",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "assets/img/search.png"
+            "file": "_posts/Con la pratica si impara.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 152
   },
   "right": {
     "id": "9f4cc230bc4b504c",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/img/search.png",
+                "file": "_posts/Con la pratica si impara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "assets/img/search.png",
-    "assets/img/profile_board.png",
-    "assets/img/ongoing.png",
-    "assets/img/fork_button.jpg",
-    "assets/img/firstdesign.jpg",
-    "assets/img/favicon.png",
-    "assets/img/feed.png",
-    "assets/img/end_result.JPG",
+    "_posts/Con la pratica si impara.md",
+    "_posts/2020-05-01-Introduction-to-simply-jekyll.md",
+    "_posts/2020-02-01-How-to-use-simply-jekyll-features-on-your-website.md",
+    "_posts/03.03.21 La mia prima pagina web.md",
+    "_posts/2020-04-01-Exploring-the-features-of-simply-jekyll.md",
+    "Untitled.md",
+    "_notes/Cultural artefacts to improve the resonance and life expectancy of your writing.md",
     "_notes/Comparison based on accomplishment does not have a baseline.md",
-    "README.md"
+    "_posts/2020-01-01-Test-page-to-see-how-the-markdown-is-rendered.md",
+    "_posts/2020-03-01-How-to-setup-simply-jekyll.md"
   ]
 }
