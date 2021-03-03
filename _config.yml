@@ -1,12 +1,12 @@
 title: Pensiero andando
 name: Carlo Fusari
 user_description: studente di management che cerca di pensare in maniera organizzata
-notes_url: "https://modest-meitner-ca28cf.netlify.app"
+notes_url: "http://www.carlofusari.com/"
 profile_pic: C:\Users\carlo\OneDrive\Desktop\4. Archivio\Carlo\Curriculum e altro
 favicon: /assets/img/favicon.png
 copyright_name: Carlo Fusari
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://modest-meitner-ca28cf.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.carlofusari.com//" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
