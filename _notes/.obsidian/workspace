@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "06bb1b7d5c303851",
+    "id": "e2432fe4384e9f8b",
     "type": "split",
     "children": [
       {
-        "id": "c57099b9c73e460b",
+        "id": "8177b8a8da37e87f",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/Con la pratica si impara.md",
+            "file": "tags.md",
             "mode": "source"
           }
         }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b0a139660e354d82",
+    "id": "6590fd5d7c0ed62b",
     "type": "split",
     "children": [
       {
-        "id": "679605ee904d9cff",
+        "id": "f177de14f31c6bbe",
         "type": "tabs",
         "children": [
           {
-            "id": "4ad8af02e7502aa1",
+            "id": "01a1efda8117801d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "4ec6908270bdfa80",
+            "id": "703f2f0d9cf04c7a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,23 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 152
+    "width": 300
   },
   "right": {
-    "id": "9f4cc230bc4b504c",
+    "id": "786ec2e4a3d49c1c",
     "type": "split",
     "children": [
       {
-        "id": "f9fd51b3ec2a574f",
+        "id": "2113fe4fc33013d9",
         "type": "tabs",
         "children": [
           {
-            "id": "dc4617d72f8eb30b",
+            "id": "427edb48173b1a3a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Con la pratica si impara.md",
+                "file": "tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/Con la pratica si impara.md",
-    "_posts/2020-05-01-Introduction-to-simply-jekyll.md",
-    "_posts/2020-02-01-How-to-use-simply-jekyll-features-on-your-website.md",
-    "_posts/03.03.21 La mia prima pagina web.md",
-    "_posts/2020-04-01-Exploring-the-features-of-simply-jekyll.md",
-    "Untitled.md",
-    "_notes/Cultural artefacts to improve the resonance and life expectancy of your writing.md",
-    "_notes/Comparison based on accomplishment does not have a baseline.md",
-    "_posts/2020-01-01-Test-page-to-see-how-the-markdown-is-rendered.md",
-    "_posts/2020-03-01-How-to-setup-simply-jekyll.md"
+    "tags.md",
+    "README.md"
   ]
 }
