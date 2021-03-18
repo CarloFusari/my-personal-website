@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "391a3bb919444ee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "88ac0400c8ac16fe",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hypertext website.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab9541d3b6d4fa2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3097fcc93034367",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95f6a426ab693678",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d362127c1951225a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "17c5418e81d4f90a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9611f25a0d6347c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b43200ad81872bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hypertext website.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "hypertext website.md"
+  ]
+}
