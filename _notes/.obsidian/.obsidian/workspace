@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "88ac0400c8ac16fe",
+        "id": "b3ef874331702959",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -73,6 +72,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,8 +86,12 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "b3ef874331702959",
   "lastOpenFiles": [
-    "Untitled.md",
-    "hypertext website.md"
+    "Archivio di conoscenze.md",
+    "note-taking.md",
+    "Processo di gestione della conoscenza.md",
+    "hypertext website.md",
+    "Untitled.md"
   ]
 }
