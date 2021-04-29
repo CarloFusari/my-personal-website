@@ -5,7 +5,7 @@ permalink: /about/
 content-type: eg
 ---
 
-Ciao sono Carlo, un semplice studente che vuole fare esperienza.
+Ciao sono Carlo, un semplice studente che vuole costruire un archivio di pensieri.
 
 ---
 
