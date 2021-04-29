@@ -1,6 +1,6 @@
 ---
 
-title: Introduction to Simply Jekyll
+title: 
 
 tags: 
 
