@@ -16,3 +16,5 @@ Siamo bombardati da informazioni e in un era come questa, dove l'ammontare di co
 
 Altro interessante aspetto che voglio approfondire è la capacità di mettere in relazione le conoscenze su un certo tema. In questo modo voglio ampliare il ventaglio di possibili applicazioni di un certo tema. Questo può dare inizio a momenti di serendiptà e di abduzione.  
 
+Un momento della giornata per elaborare pensieri.
+
