@@ -11,9 +11,8 @@ Ciao sono Carlo, un semplice studente che vuole costruire un archivio di pensier
 
 ## Reach out to me
 
-[[Twitter::https://twitter.com/raghuveerdotnet]] – Shoot me a dm or just tweet ***@raghuveerdotnet***. I will try to reply as soon as I can. Sadly, I am not available on any other social media sites. I am not really into professional social media circle but anyway here is my [[linkedin::https://www.linkedin.com/in/sraghuveer/]] just in case.
+[[]] – Shoot me a dm or just tweet . I will try to reply as soon as I can. Sadly, I am not available on any other social media sites. I am not really into professional social media circle but anyway here is my [[]] just in case.
     
-Bangalore is pretty large, so I can’t promise but If you happen to be in Bangalore by chance and want to chat, drop an email([[raghu@raghuveer.net::mailto:raghu@raghuveer.net]]) and include [Coffee] in the subject line, and we can work something out.
 
 If you like anything about who I am or what I do, please do follow me or reach out to me. Don’t hesitate.
 
