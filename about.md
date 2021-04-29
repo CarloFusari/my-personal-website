@@ -1,21 +1,14 @@
 ---
-layout: post
-title: About
-permalink: /about/
+title: Inizia da qui
 content-type: eg
+layout: post
+permalink: /about
 ---
 
-Ciao sono Carlo, un semplice studente che vuole costruire un archivio di pensieri.
+**All you need to do is click on what is interesting.** This is a special trait of this website - by [[Writing in hypertext]], it is structured for both you and I to explore my thoughts. In a linear piece of writing, all ideas would be sequenced into one narrative. In my hypertext writing, the narrative is emergent and the ideas are associative.
 
----
-
-## Reach out to me
-
-[[]] – Shoot me a dm or just tweet . I will try to reply as soon as I can. Sadly, I am not available on any other social media sites. I am not really into professional social media circle but anyway here is my [[]] just in case.
-    
-
-If you like anything about who I am or what I do, please do follow me or reach out to me. Don’t hesitate.
-
+This website is an open notebook. The purpose of this is to share the ideas that I'm exploring and to think in public. This means that, unlike a traditional blog, I'm showcasing many ideas that are in development rather than complete. If you'd like to see more detail or have related thoughts, feel free to leave a comment or tweet at me . If you would like to work with me on a behaviorally informed product strategy, send me a note at []().
+   
 ---
 
 ## About the website
@@ -35,9 +28,9 @@ If you like anything about who I am or what I do, please do follow me or reach o
 \- 12-10-19 Searchbar. <br/>
 ::rmn]]Features:
 
-- **Page preview** (Move your mouse over the link): [[Test note to verify features on this website]] 
+- **Page preview** (Move your mouse over the link): [[Archivio di conoscenze]] 
 - **Transclusion**: Allows you to see a partial view of the contents of the website to the right or the left of the margin.
-- **Sidenotes** (Changelog you see on the left is an example of this).
+- **Sidenotes** (Attraverso questo comando si possono fare le note a lato).
 - **Wiki-style link:** Usually wikis allow you to specify links using double bracket, I added it here using liquid. Also added bad-link highlighting
    - Good link: [[Test note to verify features on this website]]
    - Bad link: [[Title of a page that doesn't exist]]
@@ -61,5 +54,5 @@ Other Details:
 [[**First Design**<img src="/assets/img/firstdesign.jpg"/>::lmn]]Why is the website structured the way it is?
 
 {:.boxit}
-> The design of the website is inspired by multiple sources with the intention of making the website more functional. Having said that, I am not a skilled front-end developer/UI-developer, so I could only come somewhat closer to my inital design that I sketched *(see left or click on this &#8853; icon beside the question above if you are on a mobile device)*, hopefully this will clear why it's structured the way it is. In fact, I had to remove the lab option because of my current inability to design it. That said, I can also safely say that I am improving based on the initial iterations of the website that can be seen here: [[Jan-22-2020::https://web.archive.org/web/20200122164405/raghuveer.net]], [[Apr-13-2020::https://web.archive.org/web/20200413193808/raghuveer.net]], [[Apr-20-2020::https://web.archive.org/web/20200420172058/raghuveer.net]]
+> The design of the website is inspired by multiple sources with the intention of making the website more functional. Having said that, I am not a skilled front-end developer/UI-developer, so I could only come somewhat closer to my inital design that I sketched *(see left or click on this &#8853; icon beside the question above if you are on a mobile device)*, hopefully this will clear why it's structured the way it is. In fact, I had to remove the lab option because of my current inability to design it. That said, I can also safely say that I am improving based on the initial iterations of the website that can be seen here:
 
