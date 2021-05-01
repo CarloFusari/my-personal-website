@@ -2,7 +2,7 @@
 
 title: Un archivio di conoscenze
 
-tags: RiflessioniPersonali
+tags: #RiflessioniPersonali 
 
 status: in progress
 
