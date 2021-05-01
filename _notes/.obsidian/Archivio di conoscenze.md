@@ -2,7 +2,7 @@
 
 title: Un archivio di conoscenze
 
-tags:
+tags: seed
 
 status: in progress
 

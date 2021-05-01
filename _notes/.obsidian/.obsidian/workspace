@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "6bf17c30efd7d776",
+    "type": "split",
+    "children": [
+      {
+        "id": "74b4fe23bc8ab1a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Archivio di conoscenze.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2e3bd60fa0b07da",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cff23da076de732",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80f42ba3d281f998",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0593f8a643de8bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3acab7baf22dac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c4b02b60507e570",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "559a6783b1659144",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Archivio di conoscenze.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "74b4fe23bc8ab1a8",
+  "lastOpenFiles": [
+    "Archivio di conoscenze.md",
+    "Disegno come strumento di pensiero.md",
+    "Processo di gestione della conoscenza.md",
+    "disegno come strumento di pensiero.md",
+    "hypertext website.md",
+    "note-taking.md"
+  ]
+}
