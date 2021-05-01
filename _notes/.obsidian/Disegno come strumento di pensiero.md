@@ -2,7 +2,7 @@
 
 title: Disegno come strumento di pensiero
 
-tags: seed
+tags: RiflessioniPersonali Disegno
 
 status: in progress
 

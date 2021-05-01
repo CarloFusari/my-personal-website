@@ -2,7 +2,7 @@
 
 title: Un archivio di conoscenze
 
-tags: seed
+tags: RiflessioniPersonali
 
 status: in progress
 
